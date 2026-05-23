@@ -75,6 +75,7 @@ The relay module controls the solenoid lock mechanism based on the authenticatio
 
 ---
 Code
+
 #include <BLEDevice.h>
 #include <BLEServer.h>
 #include <BLE2902.h>
